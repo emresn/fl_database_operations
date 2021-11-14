@@ -1,6 +1,6 @@
 # fl_database_operations
 
-Flutter database crud operations with sqflite package.
+A Flutter project for handling database crud operations with sqflite package.
 
 ## Getting Started
 
